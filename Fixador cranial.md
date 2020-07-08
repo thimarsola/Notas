@@ -36,3 +36,18 @@ Suporte tipo meia lua é dotado de quatro furos que permitem durante o procedime
 
 Torquímetro é um dispositivo mecânico fixo ao braço móvel através de interações mecânicas para restringir o usuário durante o procedimento cirúrgico á uma aplicação de carga no valor máximo 360N (80lbf) sobre a cabeça do paciente, garantindo uma maior segurança ao mesmo; o torquímetro é compreendido pela interação de contato entre as esferas (40) com a capa (39) e o engate (41); o fuso (42) é fixado ao engate (41) através de interação de rosca; o parafuso (43) tem interação de contato com o engate (41) e interação de rosca com o fuso (42); a capa (39) é fixada no manípulo (45) através da interação de contato com os parafusos (46); a tampa (47) é fixada no manípulo (45) através da interação de rosca; a tampa (47) é responsável por permitir a conexão do conjunto torquímetro com o braço móvel; as molas prato (44) interagem entre si através de contato e empurram o engate (41) sobre as esferas (40), mantendo a interação de contato; durante o momento da aplicação de carga máxima de 360N(80lbf) sobre a cabeça do paciente, o fuso (42) sofre um esforço que transmite um deslocamento do engate (41) fazendo com que as molas pratos (44) sejam comprimidas, consequentemente reduzindo a interação de contato entre as esferas (40) com o engate (41), girando o manípulo (45) em falso e limitando o usuário na aplicação maior de carga.
 
+
+
+# Comparativo Técnico
+
+
+
+## Abertura
+
+
+
+> O Fixador cranial possuiu um mecanismo que permite ao cirurgião ao término do procedimento cirúrgico, remover a cabeça do paciente sem o auxilio de outra pessoas, para isto, o mesmo deve apoiar a cabeça do paciente com uma mão e com a outra pressionar a trava e puxar o conjunto braço móvel, removendo a carga aplicada sobre a cabeça do paciente.
+
+![Patente-FIG1A](C:\Users\thiagom\Downloads\Nova pasta\meu\Markdown\_cdn\img\Patente-FIG1A.JPG)
+
+Baseado na Figura 1A e Figura 8, apresentadas na presente patente US 2013/0096557, é possível observar que existe a necessidade de duas pessoas para remover a cabeça do paciente após o término do procedimento cirúrgico, pois uma pessoa irá apoiar a cabeça do paciente e a outra irá puxar o componente 37 (representado na Figura 1A) para desacoplar os perfis dentados e mantendo o mesmo puxado retirar o componente 38A (representado na Figura 1A)  até uma distância que seja possível remover a cabeça do paciente.
