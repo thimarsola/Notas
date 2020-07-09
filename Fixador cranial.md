@@ -42,12 +42,58 @@ Torquímetro é um dispositivo mecânico fixo ao braço móvel através de inter
 
 
 
+## Aplicação de carga
+
+> O Fixador cranial na sua proposta, permite ao cirurgião apoiar inicialmente a cabeça do paciente sobre os dois pinos do conjunto braço fixo, o que acaba reduzindo o risco de escorregamento da cabeça do paciente, e aplicação de carga acontece através de um único ponto, que transmite uma distribuição simétrica de carga sobre a cabeça do paciente.
+
+Baseado na Figura 1A e Figura 8, apresentadas na presente patente US 2013/0096557, é possível observar que o cirurgião apoia a cabeça do paciente em um único ponto no momento da fixação, o que acaba gerando um risco de escorregamento, na Figura 1A a aplicação de carga acontece através de dois pontos e na Figura 8 a aplicação de carga acontece através de três pontos, o que acaba gerando um risco de sobrecarga de tensão aplicada sobre a cabeça do paciente, é possível observar que o componente 57 (representado na Figura 1A) e componente 57" (representado na Figura 8) aplicam uma carga em um outro sentido, o que pode resultar em um esforço de expulsão, gerando um risco de laceração sobre a cabeça do paciente.
+
+
+
+> O Fixador Cranial possuiu no conjunto braço móvel um mecanismo que é composto por um fuso trapezoidal, que durante o procedimento de fixação da cabeça, minimiza o esforço realizado pelo cirurgião; o mecanismo também é composto por um sistema que no momento da aplicação da fixação limita o cirurgião uma aplicação de carga de no máximo 360N (Newton) ou 80 lbf (libras força) sobre a cabeça do paciente, proporcionando ao paciente uma maior segurança.
+
+Baseado na Figura 1A e Figura 8, apresentadas na presente patente US 2013/0096557, é possível observar que o sistema utiliza perfis de roscas triangulares, no qual proporciona ao médico cirurgião a necessidade de um maior esforço na aplicação da carga; também é possível observar que o sistema não possuiu nenhum mecanismo que limita o médico cirurgião a uma aplicação de carga máxima, o que pode resultar diversos riscos ao paciente.
+
+
+
+> O Fixador Cranial possuiu no conjunto braço móvel um indicador de carga, em forma de escala que demonstra em tempo real o valor de carga que o cirurgião está aplicando sobre a cabeça do paciente no momento da fixação, a escala apresenta ao médico cirurgião valores em N(Newton) e lbf (libras força).
+
+Baseado na Figura 4 e Figura 9, apresentadas na presente patente US 2013/0096557, é possível observar que o sistema não apresenta uma escala que retorne ao médico cirurgião o quanto de carga o mesmo está aplicando sobre a cabeça do paciente, no momento da fixação.
+
+
+
 ## Abertura
-
-
 
 > O Fixador cranial possuiu um mecanismo que permite ao cirurgião ao término do procedimento cirúrgico, remover a cabeça do paciente sem o auxilio de outra pessoas, para isto, o mesmo deve apoiar a cabeça do paciente com uma mão e com a outra pressionar a trava e puxar o conjunto braço móvel, removendo a carga aplicada sobre a cabeça do paciente.
 
-![Patente-FIG1A](C:\Users\thiagom\Downloads\Nova pasta\meu\Markdown\_cdn\img\Patente-FIG1A.JPG)
-
 Baseado na Figura 1A e Figura 8, apresentadas na presente patente US 2013/0096557, é possível observar que existe a necessidade de duas pessoas para remover a cabeça do paciente após o término do procedimento cirúrgico, pois uma pessoa irá apoiar a cabeça do paciente e a outra irá puxar o componente 37 (representado na Figura 1A) para desacoplar os perfis dentados e mantendo o mesmo puxado retirar o componente 38A (representado na Figura 1A)  até uma distância que seja possível remover a cabeça do paciente.
+
+
+
+## Angulação
+
+> O Fixador Cranial possuiu no conjunto braço fixo um componente denominado suporte tipo meia lua, que auxilia durante o procedimento cirúrgico na fixação do crânio do paciente através da compensação de imperfeições e/ou variações geométricas na cabeça do paciente de forma automática através de um ajuste angular de 26°.
+
+Baseado na Figura 1A e Figura 8, apresentadas na presente patente US 2013/0096557, é possível observar que o sistema não possuiu nenhum mecanismo de compensação de variações geométricas de forma automática.
+
+
+
+> O Fixador Cranial possuiu no conjunto braço fixo um sistema de rotação com grau de liberdade de 360°, que permite ao médico cirurgião durante o procedimento cirúrgico ajustar a posição do paciente sem a necessidade de retirar a carga já aplicada sobre a cabeça do paciente.
+
+Baseado na Figura 1A e Figura 8, apresentadas na presente patente US 2013/0096557, é possível observar que para o médico cirurgião realizar qualquer ajuste de posição do paciente o mesmo precisa retirar a carga aplicada através do  componente 57 (representado na Figura 1A) e componente 57" (representado na Figura 8), além de precisar fazer uma nova incisão para aplicação da carga.
+
+
+
+## Pinos de fixação cranial
+
+> O Fixador Cranial possuiu no conjunto braço fixo um componente denominado suporte tipo meia lua, que permite o medico cirurgião utilizar durante o procedimento cirúrgico conforme a necessidade, pinos de fixação cranial modelo adulto ou pediátrico, sem a necessidade de alterar qualquer componente do equipamento.
+
+Baseado na Figura 1A e Figura 8, apresentadas na presente patente US 2013/0096557, é possível observar que o conjunto não possuiu um sistema semelhante pensado na utilização de pinos de fixação cranial para procedimentos pediátricos.
+
+
+
+## Engate
+
+> O Fixador Cranial possuiu no conjunto braço fixo quatro engates estriados, que permitem o médico cirurgião simultâneamente acoplar ao equipamento até três acessórios 
+
+Baseado na Figura 1A e Figura 8, apresentadas na presente patente US 2013/0096557, é possível observar que o conjunto permite o médico cirurgião utilizar simultâneamente ao equipamento apenas um acessório.
